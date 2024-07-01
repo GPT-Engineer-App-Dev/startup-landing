@@ -36,7 +36,7 @@ function SharedLayout() {
             Features
           </a>
           <a
-            href="#"
+            href="/pricing"
             className="text-muted-foreground transition-colors hover:text-foreground"
           >
             Pricing
@@ -81,7 +81,7 @@ function SharedLayout() {
                 Features
               </a>
               <a
-                href="#"
+                href="/pricing"
                 className="text-muted-foreground hover:text-foreground"
               >
                 Pricing
